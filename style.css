@@ -34,6 +34,7 @@ html {
 }
 .contents {
   background: #b5b5b5;
+  padding: 0.1em;
 }
 .contents h1 {
   padding: 0.1em;
